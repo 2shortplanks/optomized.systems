@@ -1,0 +1,6 @@
+[submodule "hugo-dusk"]
+	path = hugo-dusk
+	url = https://github.com/gyorb/hugo-dusk.git
+[submodule "themes/hugo-dusk"]
+	path = themes/hugo-dusk
+	url = https://github.com/gyorb/hugo-dusk.git

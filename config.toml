@@ -1,0 +1,4 @@
+baseURL = "http://optomized.systems/"
+languageCode = "en-us"
+title = "OPTOMIZED.SYSTEMS"
+theme = "hugo-dusk"
